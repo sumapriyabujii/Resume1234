@@ -1,0 +1,56 @@
+{
+	"profile":{
+        "img":"download1.jpg",
+         "name":"suma priya",
+          "rollno":"16NN1A1234",
+          "college":"vignan",
+          "place":"guntur"	
+},
+  "career":{
+  	 "info":"I seek challenging opportunities where I can fully use my skills for the success of the organization."
+    },
+ "education":[
+         {
+             "degree":"b.tech",
+              "institution":"vignan",
+              "yop":"2020"
+         },
+          {
+          	"degree":"intermedite",
+              "institution":"sri chaitanya",
+             "yop":"2016"
+          },
+          {
+          	"degree":"s.c.c",
+              "institution":"kennedy",
+             "yop":"2014"
+          }
+
+    ],
+      "languages":[
+      {
+      	 "lang":"telugu"
+      },
+      {
+      	"lang":"english"
+      },
+      {
+      	"lang":"hindi"
+      }
+  ],
+   "skills":[
+   	{
+   		"title":"platforms",
+   		"content":"windows,linux"
+   	},
+   	{
+   		  "title":"programing languages",
+   		  "content":"c,c++,java"
+   	},
+   {
+   	      "title":"database",
+   	      "content":"mysql"
+   }
+
+   ]
+}
